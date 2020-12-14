@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.nav-logo{
+    padding: 10px;
+    display: inline;
+}
+.nav-links{
+    float: right;
+    display: inline;
+    
+}
+nav-links li ul {
+display: inline;
+    
+}
